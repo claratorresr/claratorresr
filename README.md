@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Clara Torres
+- 👋 Hi, I’m Clara Torres.
 - 👀 I’m interested in business intelligence, product management, and data analytics.
 - 🌱 I’m currently learning about strategy development, economics of innovation strategy, negotiation, and machine learning
      at Carnegie Mellon University.
